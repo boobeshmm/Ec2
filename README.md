@@ -1,2 +1,2 @@
 # Ec2
-EC2
+Amzon
